@@ -29,6 +29,7 @@ Parameters:
     hdd (Hide Developer Documentation): Ex: 1(yes), 0(no)
     psl (Play Store Link): Ex: #
     asl (Apple Store Link): Ex: #
+    ytl (YouTube Link): Ex: #
 
 
 ## Can I use it in my website?
