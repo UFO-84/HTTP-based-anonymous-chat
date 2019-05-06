@@ -27,9 +27,7 @@ Parameters:
     gac (Google Analytics Code): Ex: UA-42232429-6
     hdn (Hide Donation): Ex: 1(yes), 0(no)
     hdd (Hide Developer Documentation): Ex: 1(yes), 0(no)
-    psl (Play Store Link): Ex: #
-    asl (Apple Store Link): Ex: #
-    ytl (YouTube Link): Ex: #
+    hbu (Home or Back URL): Ex: https://www.drivebird.com
 
 
 ## Can I use it in my website?
