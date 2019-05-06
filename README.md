@@ -27,7 +27,7 @@ Parameters:
     gac (Google Analytics Code): Ex: UA-42232429-6
     hdn (Hide Donation): Ex: 1(yes), 0(no)
     hdd (Hide Developer Documentation): Ex: 1(yes), 0(no)
-    hbu (Home or Back URL): Ex: https://www.drivebird.com
+    hbu (Home or Back URL): Ex: https://www.drivebird.com [Put # if you don't want to use 'back' button]
 
 
 ## Can I use it in my website?
