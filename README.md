@@ -23,7 +23,7 @@ The chat script does not take any server resources. Even you don't need to use a
 Parameters:
 
     brd (Brand): Ex: DriveBird Network
-    dsu (Display Site URL): Ex: https://www.drivebird.com/services/anonymous-chat
+    dsu (Display Site URL): Ex: https://www.drivebird.com/apc
     gac (Google Analytics Code): Ex: UA-42232429-6
     hdn (Hide Donation): Ex: 1(yes), 0(no)
     hdd (Hide Developer Documentation): Ex: 1(yes), 0(no)
